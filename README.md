@@ -1,4 +1,4 @@
-##Syloti Nagri Keyboard For Windows 
+#Syloti Nagri Keyboard For Windows 
 
 Instructions for installing the Siloṭi Nagri SURMA font and SYLOTINA Keyboard 
 WINDOWS ONLY (Currently Unavailable for Mac OSX)
